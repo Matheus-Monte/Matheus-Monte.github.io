@@ -1,0 +1,38 @@
+#myname {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#sobre {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#about {
+  font-weight: bold;
+}
+
+body {
+  background-color: grey;
+}
+.estilo {
+  font-style: italic;
+  color: white;
+}
+
+.empatia {
+  font-size: 20px;
+}
+
+.compreensao {
+  font-size: 25px;
+}
+
+.proatividade{
+  font-size: 30px;
+}
+
+.lealdade {
+  font-size: 35px;
+}
+
+.paciencia{
+  font-size: 40px;
+}
